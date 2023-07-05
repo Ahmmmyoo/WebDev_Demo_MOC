@@ -1,0 +1,17 @@
+body {
+    background-color: rgba(247, 166, 221, 0.7);
+    font-family: 'Agdasima', cursive;
+}
+
+.navbar {
+    font-size: 1.3rem;
+}
+
+.navbar .navbar-brand {
+    color: rgba(163, 20, 116, 0.9);
+    font-size: 1.7rem;
+}
+
+.collapse .nav-link:hover {
+    color: rgba(224, 119, 190, 0.9);
+}
