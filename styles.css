@@ -15,3 +15,7 @@ body {
 .collapse .nav-link:hover {
     color: rgba(224, 119, 190, 0.9);
 }
+
+#thiscover img{
+    height: 60vh;
+}
